@@ -23,7 +23,7 @@ div.half-width {
 }
 
 div.half-width img.main-img {
-    width: 80%;
+    width: 90%;
 }
 
 div.flexible-div {
@@ -40,4 +40,10 @@ div img.main-img {
     color: white;
     font-weight: 400px;
     padding: 10px 40px;
+}
+
+#mid-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
